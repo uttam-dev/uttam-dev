@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey, I'm Uttam 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemIzZTJqZ3hpNzRmMG45ZWd1MHVjM2d6MHZ1bnp5dzU4bWQwMnYxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="80%"/>
 </p>
 
 ---
@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZjbnV6MDRiaWg0bHY1MHRrbHoxdTJ0ZWkzY2JjdHYzam5saWlieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="90%"/>
 </p>

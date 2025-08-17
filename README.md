@@ -1,53 +1,66 @@
-# Hi there, I'm Uttam 👋  
+<h1 align="center">🚀 Hey, I'm Uttam 👋</h1>
 
-## 🚀 About Me
-- 🌱 Learning & working with: **Node.js | Express.js | MongoDB | SQL | HTML | CSS | JavaScript | Docker | Git | Postman**
-- 👯 Looking to collaborate on: **Open-source backend & full-stack projects**
-- ⚡ Fun fact: I enjoy debugging more than coding sometimes 😅  
-
----
-
-## 🛠️ Tech Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Uttam's GitHub stats](https://github-readme-stats.vercel.app/api?username=uttam-dev&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttam-dev&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uttam-dev&theme=dark&hide_border=false)  
-
----
-
-## 🔥 Fun Animations
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&width=600&lines=Backend+Developer;API+Designer+%7C+Database+Architect;Open+Source+Enthusiast;Always+Exploring+New+Tech)](https://git.io/typing-svg)
+## ⚡ About Me  
+- 🌱 Passionate about **Backend Development** & **APIs**  
+- 👨‍💻 Exploring **Cloud, System Design & Scalable Architectures**  
+- 🔥 Strong with **Node.js | Express | MongoDB | SQL**  
+- ⚡ Fun fact: I love solving bugs more than writing code 😎  
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uttam-prajapati-dev)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.uttam.dev@gmail.com)  
+## 🛠️ Tech Arsenal  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,js,html,css,docker,git,postman&theme=dark" />
+</p>
 
 ---
 
-## 📚 Currently Exploring
-- 🏗️ Building secure & scalable backend systems  
-- ☁️ Cloud deployment & containerization with Docker  
-- 📈 Database optimization & indexing strategies  
-- 🧩 System design & architecture patterns  
+## 📊 GitHub Vibes  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uttam-dev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uttam-dev&theme=tokyonight&hide_border=true" height="150"/>  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uttam-dev&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-![Uttam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uttam-dev&theme=github)
+## 🔥 Fun Animations  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Designer+%7C+Database+Architect;GenZ+Developer+🚀;Always+Exploring+New+Tech+🔥" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 🌐 Let's Connect  
+<p align="center">
+  <a href="https://linkedin.com/in/uttam-prajapati-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="mailto:work.uttam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🚀 Currently Exploring  
+- 🕶️ **Next-gen backend systems** with high scalability  
+- 🌌 **Cloud native apps** using Docker & microservices  
+- ⚡ **GenZ Dev vibes** → coding + caffeine + cyberpunk aesthetic  
+- 🧩 System design patterns & futuristic software ideas  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
+</p>

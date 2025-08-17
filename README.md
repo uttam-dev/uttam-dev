@@ -31,7 +31,7 @@
 ---
 
 ## 🔥 Fun Animations
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Full-stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&width=600&lines=Backend+Developer;API+Designer+%7C+Database+Architect;Open+Source+Enthusiast;Always+Exploring+New+Tech)](https://git.io/typing-svg)
 
 ---
 
@@ -42,7 +42,12 @@
 
 ---
 
-## 📌 Featured Projects
+## 📚 Currently Exploring
+- 🏗️ Building secure & scalable backend systems  
+- ☁️ Cloud deployment & containerization with Docker  
+- 📈 Database optimization & indexing strategies  
+- 🧩 System design & architecture patterns  
+
 ---
 
 ![Uttam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uttam-dev&theme=github)

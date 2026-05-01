@@ -17,16 +17,16 @@
 
 ### Tech arsenal
 
-**backend**
+**Backend**
 `Node.js` `Express` `C#` `.NET` `PHP` `Python`
 
-**frontend**
+**Frontend**
 `JavaScript` `HTML/CSS` `Tailwind` `Bootstrap`
 
-**data**
+**Data**
 `MongoDB` `MySQL` `SQL Server`
 
-**tools**
+**Tools**
 `Docker` `Git` `REST APIs` `Linux` `Arduino`
 
 

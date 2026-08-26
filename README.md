@@ -1,16 +1,16 @@
-<div align="center">
-    <h1>
-        Hyy, I'm Uttam Prajapati
-    </h1>
+<div align="center"> 
+    <h1>Hey, I'm Uttam Prajapati 👋</h1> 
+    <p> Software Developer focused on backend development, APIs and building things that actually work. 
+    </p> 
 </div>
 
 
 ### About
 
-- obsessed with **backend systems** - the part users never see but always feel
-- going deep on **cloud infra, system design & microservices**
-- core stack: `Node.js` `C#` `.NET` `Express` `MongoDB` `SQL`
-
+-  I enjoy working on the backend — APIs, databases, business logic and everything behind the UI.
+-  Currently learning more about system design, cloud infrastructure and distributed systems.
+-  I work mainly with `C#`, `.NET` and `Node.js`, along with `SQL` and `NoSQL` databases.
+-  I like understanding how things work under the hood instead of just making them work.
 
 ---
 
